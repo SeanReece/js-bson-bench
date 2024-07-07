@@ -1,0 +1,16 @@
+{
+  "name": "js-bson-bench",
+  "version": "1.0.0",
+  "description": "Some js-bson benchmarks",
+  "main": "bench.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "benchmark": "^2.1.4",
+    "bson": "^6.8.0",
+    "bson-test": "file:../js-bson"
+  }
+}
